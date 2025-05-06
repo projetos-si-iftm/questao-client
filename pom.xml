@@ -44,12 +44,6 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.github.projetos-si-iftm</groupId>
-            <artifactId>questao_client</artifactId>
-            <version>v1.0</version>
-        </dependency>
-
     </dependencies>
 
     <properties>
